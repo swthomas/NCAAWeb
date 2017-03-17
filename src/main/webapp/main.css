@@ -1,0 +1,225 @@
+/* NavBar */
+body {
+	background: lightgrey;
+}
+
+.navbar-default {
+	background-color: #2e3549;
+	border: none;
+}
+
+.teamInfo {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 8em;
+}
+
+.teamInfo2 {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.teamInfo3 {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 10em;
+}
+
+#B10 {
+	padding: 1em;
+	margin: 0 auto;
+	text-align: left;
+	width: 35%;
+}
+
+a img:hover {
+	opacity: .5;
+}
+
+
+#ACC {
+	padding: 1em;
+	width: 50%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+#teamInfoTable {
+	margin: 0 auto;;
+	text-align: left;
+	font-size: 20px;
+}
+
+#teamInfoTable .title {
+	font-weight: bold;
+}
+
+#teamInfoTable .adjusted {
+	padding-left: 3em;
+}
+
+.headThingy {
+	margin: 0 auto;
+	margin-top: .5em;
+	text-align: center;
+	font-size: 5em;
+	text-decoration: bold;
+	border-bottom: 5px solid darkgrey;
+	font-weight:900;
+	padding: .3em;
+	width: 10em;
+	font-family: Techno;
+}
+
+.headDiv {
+	margin-top: 3em;
+}
+
+#teamInfoTable .adjusted {
+	padding-left: 3em;
+}
+
+#editTable {
+	margin: 0 auto;
+	text-align: left;
+}
+
+#editTable .adjusted {
+	padding-left: 3em;
+}
+
+#teamInfoTable .header {
+	
+}
+
+#teamName {
+	font-size: 50px;
+}
+
+.items {
+/* 	width: 40em;
+	margin: 0 auto; */
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+
+#submitEdit {
+	margin: 0 auto;
+	text-align: center;
+}
+
+#teampic {
+	width: 30%;
+	text-align: center;
+	margin-left: 0 auto;
+}
+
+#delete {
+	margin: 0 auto;
+	text-align: left;
+}
+
+.button {
+	text-align: center;
+	padding-top: 3em;
+}
+
+.button .btn {
+	width: 100px;
+}
+
+#add {
+	padding: 5em;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#logo {
+	color: #fff;
+	padding: 0;
+}
+
+.navbar-default .navbar-toggle {
+	background-color: #2e3549;
+	border: none;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus
+	{
+	background-color: #2f7a94;
+}
+
+.icon-bar {
+	background-color: #ecf035 !important;
+}
+
+#logo img {
+	height: 100%;
+	padding: 5px 18px;
+	width: auto;
+}
+
+#myNavbar {
+	padding: 0;
+}
+
+#myNavbar a {
+	color: #eeeeee;
+	text-transform: uppercase;
+	margin: 0 0 0 8px;
+	text-align: center;
+	font-weight: 900;
+}
+
+.navbar h4 {
+	color: #eeeeee;
+	font-weight: 900;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+#myNavbar a:hover {
+	text-align: center;
+	color: yellow;
+}
+
+#back {
+	float: right;
+	font-size: 5em;
+}
+
+#next {
+	font-size: 5em;
+}
+
+.imgSmall {
+	width:25%;
+}
+.imgOff {
+	width:28%;
+}
+
+.active a {
+	color: #fff !important;
+	background-color: #2f7a94 !important;
+	font-style: italic;
+}
+
+
+
+.dropdown-menu {
+	background-color: #2e3549;
+}
+
+.navbar.navbar-default .dropdown-menu>li>a:hover, .navbar.navbar-default .dropdown-menu>li>a:focus
+	{
+	background-color: #2f7a94 !important;
+}
+
+.navbar.navbar-default .navbar-nav li.dropdown.open>.dropdown-toggle,
+	.navbar.navbar-default .navbar-nav li.dropdown.active>.dropdown-toggle,
+	.navbar.navbar-default .navbar-nav li.dropdown.open.active>.dropdown-toggle
+	{
+	background: #2f7a94;
+}

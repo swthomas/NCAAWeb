@@ -1,0 +1,28 @@
+Penn State/ Big Ten/ East Division/ James Franklin/ Nittany Lions/ Beaver Stadium/ penn.png
+Ohio State/ Big Ten/ East Division/ Urban Meyer/ Buckeyes/ Ohio Stadium/ ohio.png
+*ichigan/ Big Ten/ East Division/ Jim Harbaugh/ Wolverines/ Michigan Stadium/ michigan.png
+Indiana/ Big Ten/ East Division/ Tom Allen/ Hoosiers/ Memorial Stadium/ indiana.png
+Maryland/ Big Ten/ East Division/ D. J. Durkin/ Terrapins/ Byrd Stadium/ maryland.png
+Michigan State/ Big Ten/ East Division/ Mark Dantonio/ Spartans/ Spartans Stadium/ michiganS.png
+Rutgers/ Big Ten/ East Division/ Chris Ash/ Scarlet Knights/ High Point Solutions Stadium/ rutgers.png
+Wisconsin/ Big Ten/ West Division/ Paul Chryst/ Badgers/ Camp Randall Stadium/ wisconsin.png
+Iowa/ Big Ten/ West Division/ Kirk Ferentz/ Hawkeyes/ Kinnick Stadium/ Iowa.png
+Nebraska/ Big Ten/ West Division/ Mike Riley/ Cornhuskers/ Memorial Stadium/ nebraska.png
+Minnesota/ Big Ten/ West Division/ P. J. Fleck/ Golden Gophers/ TCF Bank Stadium/ minnesota.png
+Northwestern/ Big Ten/ West Division/ Pat Fitzgerald/ Wildcats/ Ryan Field/ northwestern.png
+Illinois/ Big Ten/ West Division/ Lovie Smith/ Fighting Illini/ Memorial Stadium/ illinios.png
+Purdue/ Big Ten/ West Division/ Jeff Brohm/ Boilermakers/ Ross Ade Stadium/ purdue.png
+Clemson/ Atlantic Coast Conference/ ACC Atlantic/ Dabo Swinney/ Tigers/ Memorial Stadium/ clemson.png
+Louisville/ Atlantic Coast Conference/ ACC Atlantic/ Bobby Petrino/ Cardinals/ Papa John's Cardinal Stadium/ louisville.png
+Florida State/ Atlantic Coast Conference/ ACC Atlantic/ Jimbo Fisher/ Seminoles/ Doak Campbell Stadium/ florida.png
+Wake Forest/ Atlantic Coast Conference/ ACC Atlantic/ Dave Clawson/ Demon Deacon/ BB&T Field/ wake.png
+NC State/ Atlantic Coast Conference/ ACC Atlantic/ Dave Doeren/ Wolfpack/ Carter–Finley Stadium/ ncState.png
+Boston College/ Atlantic Coast Conference/ ACC Atlantic/ Steve Addazio/ Eagles/ Boston College Alumni Stadium/ boston.png
+Syracuse/ Atlantic Coast Conference/ ACC Atlantic/ Dino Babers/ Orange/ Carrier Dome/ syracuse.png
+Virginia Tech/ Atlantic Coast Conference/ ACC Coastal/ Justin Fuente/ Hokies/ Lane Stadium/ vt.png
+Pittsburgh/ Atlantic Coast Conference/ ACC Coastal/ Pat Narduzzi/ Panthers/ Heinz Field/ pitt.png
+North Carolina/ Atlantic Coast Conference/ ACC Coastal/ Larry Fedora/ Tar Heels/ Kenan Memorial Stadium/ nc.png
+Miami/ Atlantic Coast Conference/ ACC Coastal/ Mark Richt/ Hurricanes/ Hard Rock Stadium/ miami.png
+Georgia Tech/ Atlantic Coast Conference/ ACC Coastal/ Paul Johnson/ Yellow Jackets/ Bobby Dodd Stadium/ georgia.png
+Duke/ Atlantic Coast Conference/ ACC Coastal/ David Cutcliffe/ Blue Devils/ Wallace Wade Stadium/ duke.png
+Virginia/ Atlantic Coast Conference/ ACC Coastal/ Bronco Mendenhall/ Cavaliers/ virginia.png
