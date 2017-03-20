@@ -11,9 +11,12 @@
 	<form action="addCollege.do" method="POST">
 		<table>
 			<tr><td>College: </td><td><input type="text" name="name"></td></tr>
+			<tr><td>Conference: </td><td><input type="text" name="conference"></td></tr>
 			<tr><td>Division: </td><td><input type="text" name="division"></td></tr>
 			<tr><td>Mascot: </td><td><input type="text" name="mascot"></td></tr>
+			<tr><td>Stadium: </td><td><input type="text" name="stadium"></td></tr>
 			<tr><td>Coach: </td><td><input type="text" name="coach"></td></tr>
+			<tr><td>Picture: </td><td><input type="text" name="pic"></td></tr>
 		</table>
 		
 		<input type="submit" value="Submit"/>

@@ -8,7 +8,7 @@
 <head>
 <link rel="stylesheet" href="style2.css">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Big Ten</title>
+<title>NCAAWeb App</title>
 </head>
 <body>
 	<h1>Colleges of the BigTen</h1>

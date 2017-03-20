@@ -8,7 +8,7 @@
 <head>
 <link rel="stylesheet" href="style2.css">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Big Ten</title>
+<title>NCAAWeb App</title>
 </head>
 <body style="background:black">
 	<div style="text-align:center; background:black; color:red">

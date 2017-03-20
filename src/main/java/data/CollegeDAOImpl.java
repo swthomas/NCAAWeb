@@ -22,7 +22,6 @@ public class CollegeDAOImpl implements CollegeDAO {
 
 	@Autowired
 	private WebApplicationContext wac;
-//	public CollegeDAOImpl(){System.out.println("CollegeDAOImpl() ctor");}
 
 	@PostConstruct
 	private void init() {
@@ -105,7 +104,9 @@ public class CollegeDAOImpl implements CollegeDAO {
 
 	@Override
 	public College addCollege(College college) {
-		collegeMap.put(college.getName(), college);
+		College c = new College();
+		c = college;
+		collegeMap.put(c.getName(), c);
 		return college;
 	}
 
@@ -116,7 +117,6 @@ public class CollegeDAOImpl implements CollegeDAO {
 		String s = null;
 		for (String k : keys) {
 			if (collegeMap.get(k).getName().equals(n)) {
-//				i++;
 				s = k;
 				for (College c : l) {
 					if(c.getName().equals(k)){
@@ -126,16 +126,9 @@ public class CollegeDAOImpl implements CollegeDAO {
 				}
 				break;
 			}
-//			i++;
 		}
 		l.remove(i);
 		collegeMap.remove(s);
-//		if (i < 0) {
-//			i = l.size();
-//		}
-//		else if (i > (l.size() -1)){
-//			i = 0;
-//		}
 		return l.get(i);
 	}
 
