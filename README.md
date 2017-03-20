@@ -18,5 +18,3 @@ A NCAA team management web-app built using SpringMVA. This was a required projec
 ## Class Structure Overview
 - The **CollegeController** class is the controller and interacts with the **CollegeDAOImpl** class which implements methods declared in the **CollegeDAO** interface. The college objects are constructed using information from the **College** class and accompanying .txt files.
 - The **CollegeController** provides information back through a **.jsp** file for the user to view based on their selection throughout the page.
-
-**example of back-button**
