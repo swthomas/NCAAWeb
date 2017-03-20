@@ -1,8 +1,8 @@
 # Summary
 A NCAA team management web-app built using SpringMVA. This was a required project designed to present basic programming skill with SpringMVC and the C.R.U.D. concept. The project was fairly straight forward though I did run into a couple problems when switching from a Maven project to Gradle. I also had some trouble working with the sessions attribute of SpringMVC and creating a new session for each user.  
 
-<img src="src/main/webapp/pics/scrn2.png" height="350">
-<img src="src/main/webapp/pics/scrn.png" height="350">
+<img src="pics/scrn2.png" height="350">
+<img src="pics/scrn.png" height="350">
 
 
 ## In This Document
